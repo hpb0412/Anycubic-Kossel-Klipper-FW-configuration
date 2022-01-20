@@ -50,7 +50,7 @@ Most of configuration is "copy & paste" from multiple reference sources.
       - => radius 115mm
     - The ultrabase has 2 versions:
       - 200mm => radius 100mm
-      - 240mm => radius 200mm
+      - 240mm => radius 120mm
 - The direction on `TMC2208` is reversed compared to `A4988`. (That's why we use `!` as claimed above)
   > This seems to be intentional and is documented even in the comments on Amazon listings.
 - Trigorilla pins (both 1.0 and 1.1)
