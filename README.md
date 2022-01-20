@@ -54,7 +54,7 @@ Most of configuration is "copy & paste" from multiple reference sources.
 - The direction on `TMC2208` is reversed compared to `A4988`. (That's why we use `!` as claimed above)
   > This seems to be intentional and is documented even in the comments on Amazon listings.
 - Trigorilla pins (both 1.0 and 1.1)
-  > ![Trigorilla pins]('./assets/img/trigorilla_pins.pngassets/img/trigorilla_pins.png')
+  > ![Trigorilla pins](./assets/img/trigorilla_pins.png)
 
 ## Known Errors and Solutions
 
